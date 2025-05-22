@@ -12,6 +12,7 @@ during the lab.**
 As discussed earlier in the term, build systems are used to help programmers
 compile, run, and test their programs. In this lab, we'll be using Maven to
 organize and build our program. (For your project, you can use either Maven or Gradle, just make sure that you team agrees on one of them.)
+   
 
 ### Project Structure
 Take a second to get familiar with how this project is structured. Maven projects
